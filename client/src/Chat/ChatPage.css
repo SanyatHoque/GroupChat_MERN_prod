@@ -1,0 +1,23 @@
+.messages-container {
+    height: 80vh;
+    overflow-y: scroll;
+    
+}
+.messages-container h2 {
+        color: #8d96a6;
+        font-family: verdana;
+        font-size: 250%;
+      }
+
+
+.input-container h3 {
+    color:#8d96a6;
+    font-family: verdana;
+    font-size: 200%;
+  }
+.left-container {
+background-image: url("Whatsapp-Wallpaper-120.jpg");
+}
+.right-container {
+background-image: url("Whatsapp-Wallpaper-120.jpg");
+}
